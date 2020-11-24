@@ -1,0 +1,12 @@
+{
+  "id": "aalto-mail",
+  "name": "Aalto Mail",
+  "version": "1.0.0",
+  "description": "aalto university mail service",
+  "main": "index.js",
+  "author": "Giacomo Mariani <giacomo.mariani@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://mail.aalto.fi"
+  }
+}
